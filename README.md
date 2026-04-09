@@ -108,7 +108,7 @@ CPU cores:
 
 ## Demo / Proof
 
-![alt text](<Screenshot 2026-04-09 122531.png>) ![alt text](<Screenshot 2026-04-09 121628.png>) ![alt text](<Screenshot 2026-04-09 122147.png>) ![alt text](<Screenshot 2026-04-09 122158.png>)
+![alt text](</assets/Screenshot 2026-04-09 122531.png>) ![alt text](</assets/Screenshot 2026-04-09 121628.png>) ![alt text](</assets/Screenshot 2026-04-09 122147.png>) ![alt text](</assets/Screenshot 2026-04-09 122158.png>)
 
 ---
 
